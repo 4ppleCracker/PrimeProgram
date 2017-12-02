@@ -1,0 +1,6 @@
+D:\programming\C#\Playground\Playground\Playground\bin\Release\Playground.exe.config
+D:\programming\C#\Playground\Playground\Playground\bin\Release\Playground.exe
+D:\programming\C#\Playground\Playground\Playground\bin\Release\Playground.pdb
+D:\programming\C#\Playground\Playground\Playground\obj\Release\PrimeProgram.csprojResolveAssemblyReference.cache
+D:\programming\C#\Playground\Playground\Playground\obj\Release\Playground.exe
+D:\programming\C#\Playground\Playground\Playground\obj\Release\Playground.pdb
